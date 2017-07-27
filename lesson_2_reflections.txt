@@ -1,0 +1,2 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+É criada a pasta oculta git, que serve para controlar o histórico dos arquivos.
