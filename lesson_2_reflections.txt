@@ -3,3 +3,10 @@ O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 A area de preparação é a seleção dos arquivos do diretório que serão comitados para o repositório. Permite organizar os commits em grupos lógicos.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Pois é mais fácil olhar a linha do tempo dos commits.
+
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+é a fusão de todos os commits entre os branches num único branch. é como se uníssemos duas linhas do tempo em apenas uma.
